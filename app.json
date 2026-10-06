@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Sistema Intrusos",
+    "slug": "sistema-intrusos",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "android": {"package":"com.sistemaintrusos.app"},
+    "ios": {"bundleIdentifier":"com.sistemaintrusos.app"}
+  }
+}
